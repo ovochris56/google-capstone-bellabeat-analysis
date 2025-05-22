@@ -15,7 +15,7 @@ Tableau dashboard and analysis from the Google Data Analytics Capstone project. 
 - Visual breakdowns by calorie, distance, and sedentary rank
 
 ## 📎 Live Dashboard
-- View on Tableau Public (https://public.tableau.com/views/FitbitUserAnalysisGoogleDataAnalyticsCapstone/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [View on Tableau Public](https://public.tableau.com/views/FitbitUserAnalysisGoogleDataAnalyticsCapstone/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ---
