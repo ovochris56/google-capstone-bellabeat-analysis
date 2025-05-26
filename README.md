@@ -28,7 +28,7 @@ The Power BI version highlights the same dataset with additional visual refineme
 - Line chart showing month-to-month trends
 
 📄 View the Power BI dashboard PDF:  
-👉 [PDF Link](file:///Users/christopherfontes/Downloads/FontesBellaBeatPowerBI%203.pdf)
+📄 View the final Power BI dashboard by opening the attached 'FontesBellaBeatPowerBI 3.pdf' in this repo.
 ## 🧠 Skills Demonstrated
 - Data cleaning and transformation
 - Dashboard design
