@@ -1,5 +1,5 @@
 # Google-capstone-bellabeat-analysis
-Tableau dashboard and analysis from the Google Data Analytics Capstone project. Focused on user behavior insights from Fitbit data.
+Power BI dashboard and analysis from the Google Data Analytics Capstone project. Focused on user behavior insights from Fitbit data.
 
 ## 🔍 Key Findings
 - High caloric burn ≠ high distance traveled
@@ -23,7 +23,8 @@ I created visual dashboards using both **Tableau** and **Power BI** to compare t
 - Dashboard design
 - Comparative data analysis
 - User-focused storytelling with data
-- Agile-style delivery (entire Power BI dashboard completed in one night)
+
+[FontesBellaBeatPowerBI 3.pdf](https://github.com/user-attachments/files/22667412/FontesBellaBeatPowerBI.3.pdf)
 
 ---
 
@@ -31,3 +32,5 @@ I created visual dashboards using both **Tableau** and **Power BI** to compare t
 I'm actively growing my portfolio and would love to hear your thoughts. Feel free to leave feedback or connect with me on [LinkedIn](https://www.linkedin.com/in/christopher-fontes/)) 
 
 © 2025 Christopher Fontes
+
+
